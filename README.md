@@ -15,7 +15,3 @@
 看看今天摸了多少钱这种事，果然可以激励到自己吧
 
 记得加 `~/.bash_profile`，使用更方便 ᕕ( ᐛ )ᕗ
-
-```
-echo "alias moyu=/path/to/file/moyu-bash/moyu.sh" >> ~/.bash_profile
-```
