@@ -1,13 +1,13 @@
 # Author: github@luochang212
 
-work_start="10:00:00"
-lunch_start="12:00:00";
-lunch_end="13:00:00";
-dinner_start="18:00:00";
-dinner_end="19:00:00";
-work_end="20:00:00"
-salary=40000
-day=22
+work_start="10:00:00"    # 上班
+lunch_start="12:00:00"    # 午饭开始
+lunch_end="13:00:00"    # 午饭结束
+dinner_start="18:00:00"    # 晚饭开始
+dinner_end="19:00:00"    # 晚饭结束
+work_end="20:00:00"    # 下班
+salary=40000    # 月薪
+day=22    # 每月工作天数
 
 
 CURRENT_TIME=$(date +"%T")
