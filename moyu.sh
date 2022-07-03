@@ -9,6 +9,7 @@ work_end="20:00:00"
 salary=40000
 day=22
 
+
 CURRENT_TIME=$(date +"%T")
 EMOJI_ARRAY=("(・▽ < )★" "─=≡Σ((( つ•̀ 3 •́)つ" "┗|｀O′|┛" "_(┐「ε:)_" "ヽ( ˘ω˘ )ゝ")
 
